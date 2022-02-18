@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607814287180",
+    "project_id": "chat-app-5c102",
+    "storage_bucket": "chat-app-5c102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607814287180:android:45e8792b28d178cdf7d9e9",
+        "android_client_info": {
+          "package_name": "ma.ensaf.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607814287180-sogg3q16p5d9n3up8kkqo6d4o7lrgi9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmRwtztVFI4cZlyqTNqGBVqvt8h_HawXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607814287180-sogg3q16p5d9n3up8kkqo6d4o7lrgi9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
